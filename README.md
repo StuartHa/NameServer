@@ -1,3 +1,3 @@
 # NameServer
 
-Nothing to see here. Yet.
+Nothing to see here.
